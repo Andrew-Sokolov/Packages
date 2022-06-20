@@ -1,6 +1,7 @@
 # [Swift Packages](https://developer.apple.com/documentation/xcode/swift-packages)
 
 Create reusable code, organize it in a lightweight way, and share it across Xcode projects and with other developers.
+<img src="./Diagram.png" />
 
 ## [Swift Package Manager](https://www.swift.org/package-manager/)
 
